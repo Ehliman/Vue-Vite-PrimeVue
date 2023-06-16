@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+
+$gutter: 1rem; //for primeflex grid system
+
+@import 'primevue/resources/primevue.min.css';
+@import 'node_modules/primeflex/primeflex.scss';
+@import 'primevue/resources/themes/saga-blue/theme.css';
+@import 'primeicons/primeicons.css';
